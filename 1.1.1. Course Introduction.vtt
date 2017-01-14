@@ -1,0 +1,697 @@
+WEBVTT
+
+1
+00:00:02.560 --> 00:00:03.260
+Welcome.
+
+2
+00:00:03.260 --> 00:00:06.600
+I'm Bob Sedgwick, professor of
+computer science at Princeton.
+
+3
+00:00:06.600 --> 00:00:09.770
+This is our online course,
+Algorithms, developed by myself and
+
+4
+00:00:09.770 --> 00:00:10.940
+Kevin Wayne here at Princeton.
+
+5
+00:00:12.250 --> 00:00:14.350
+We're going to start with an overview,
+
+6
+00:00:14.350 --> 00:00:18.930
+a discussion of why you might want to
+study algorithms, and then a little bit of
+
+7
+00:00:18.930 --> 00:00:21.489
+discussion about the resources
+that you need to take this course.
+
+8
+00:00:23.110 --> 00:00:24.450
+So what is this course?
+
+9
+00:00:24.450 --> 00:00:28.410
+It's an intermediate level
+survey course on algorithms.
+
+10
+00:00:28.410 --> 00:00:30.590
+We're going to concentrate
+on programming and
+
+11
+00:00:30.590 --> 00:00:34.180
+problem solving in the context
+of real applications.
+
+12
+00:00:34.180 --> 00:00:38.725
+And our focus is going to be on two
+things, algorithms which are methods for
+
+13
+00:00:38.725 --> 00:00:43.048
+solving problems, and data structures
+which store the information
+
+14
+00:00:43.048 --> 00:00:47.386
+associated with the problem and
+go hands and hands with algorithms.
+
+15
+00:00:47.386 --> 00:00:51.598
+[COUGH] These are the basic topics
+that we'll cover in part one and
+
+16
+00:00:51.598 --> 00:00:53.620
+part two of the course.
+
+17
+00:00:53.620 --> 00:00:57.110
+The first part is data types sorting and
+searching.
+
+18
+00:00:57.110 --> 00:01:01.120
+We'll consider a number of data
+structures and algorithms that are basic
+
+19
+00:01:01.120 --> 00:01:06.330
+to all the methods we consider including
+stacks, queues, bags, and priority queues.
+
+20
+00:01:06.330 --> 00:01:09.920
+Then, we'll consider classic algorithms
+for sorting, putting things in order.
+
+21
+00:01:09.920 --> 00:01:13.410
+That's quick sort, merge sort,
+heat sort, and rated sorts.
+
+22
+00:01:13.410 --> 00:01:18.135
+And we'll consider classic methods for
+searching, including binary search trees,
+
+23
+00:01:18.135 --> 00:01:21.300
+red-black binary search trees,
+and hash tables.
+
+24
+00:01:21.300 --> 00:01:24.600
+The second part of the course is for
+more advanced algorithms,
+
+25
+00:01:24.600 --> 00:01:28.550
+including graph algorithms,
+classic graph searching algorithms,
+
+26
+00:01:28.550 --> 00:01:32.040
+minimum spanning tree, and algorithms.
+
+27
+00:01:32.040 --> 00:01:37.090
+Algorithms for processing strings
+including regular expressions and
+
+28
+00:01:37.090 --> 00:01:38.650
+data compression.
+
+29
+00:01:38.650 --> 00:01:41.040
+And then, some advanced algorithms that
+
+30
+00:01:41.040 --> 00:01:44.800
+make use of the basic algorithms that
+we developed earlier in the course.
+
+31
+00:01:46.400 --> 00:01:48.460
+So why should one study algorithms?
+
+32
+00:01:48.460 --> 00:01:53.140
+Well, their impact is very broad and
+far reaching.
+
+33
+00:01:53.140 --> 00:01:57.550
+From the Internet to biology,
+to commercial computing, to computer
+
+34
+00:01:57.550 --> 00:02:02.990
+graphics, security, multimedia, cellphone
+networks and scientific applications.
+
+35
+00:02:02.990 --> 00:02:05.570
+Algorithms are all around us.
+
+36
+00:02:05.570 --> 00:02:10.350
+They're use for movies and video games,
+for particle collision simulation.
+
+37
+00:02:10.350 --> 00:02:15.080
+They're used to study the genome and
+all manner of other applications.
+
+38
+00:02:15.080 --> 00:02:19.270
+So that's one important reason to study
+algorithms, there impact is broad and
+
+39
+00:02:19.270 --> 00:02:19.790
+far reach.
+
+40
+00:02:21.590 --> 00:02:26.611
+Algorithms are also interesting to
+study because they have ancient roots.
+
+41
+00:02:26.611 --> 00:02:31.090
+Now, the first algorithm we study goes
+back to 300 BC dating at least to Euclid.
+
+42
+00:02:32.110 --> 00:02:34.800
+The concept of an algorithm
+was formalized,
+
+43
+00:02:34.800 --> 00:02:38.990
+actually here at Princeton by Church and
+Turing in the 1930s, but
+
+44
+00:02:38.990 --> 00:02:42.600
+most algorithms that we consider
+were discovered in recent decades.
+
+45
+00:02:42.600 --> 00:02:46.630
+In fact, some were discovered by
+undergraduates in a course like this.
+
+46
+00:02:46.630 --> 00:02:50.188
+In these plenty of other algorithms
+waiting to be discovered by students
+
+47
+00:02:50.188 --> 00:02:50.721
+like you.
+
+48
+00:02:52.733 --> 00:02:57.206
+The main reason that people study
+algorithms is to be able to solve problems
+
+49
+00:02:57.206 --> 00:03:00.240
+that could not otherwise be address.
+
+50
+00:03:00.240 --> 00:03:00.990
+For example,
+
+51
+00:03:00.990 --> 00:03:04.930
+on the first lecture, we're going to talk
+about the network connectivity problem.
+
+52
+00:03:04.930 --> 00:03:09.370
+Where the problem is given a large
+set of items that are connected
+
+53
+00:03:09.370 --> 00:03:10.750
+together pair wise.
+
+54
+00:03:12.220 --> 00:03:16.620
+Is there a way to get from one to another
+with a path through the connection.
+
+55
+00:03:16.620 --> 00:03:20.870
+As you can see from this example, it's not
+clear whether or not there's such a path.
+
+56
+00:03:20.870 --> 00:03:22.820
+We need the computer program to do it.
+
+57
+00:03:22.820 --> 00:03:25.220
+In fact,
+we need an efficient algorithm to do it.
+
+58
+00:03:27.410 --> 00:03:29.700
+In this case,
+the answer is that there is such a path.
+
+59
+00:03:31.890 --> 00:03:34.928
+Another reason to study algorithms is for
+intellectual stimulation.
+
+60
+00:03:34.928 --> 00:03:41.180
+Algorithms are very
+interesting object to study.
+
+61
+00:03:41.180 --> 00:03:46.320
+Don Knuth, who wrote several books on
+algorithms and was a pioneer in the field,
+
+62
+00:03:46.320 --> 00:03:49.732
+said that,
+an algorithm must be seen to be believed.
+
+63
+00:03:49.732 --> 00:03:54.020
+You can't just think about an algorithm,
+you have to work with it.
+
+64
+00:03:54.020 --> 00:03:56.270
+Another quote from Francis Sullivan says,
+
+65
+00:03:56.270 --> 00:03:59.960
+the great algorithms
+are the poetry of computation.
+
+66
+00:03:59.960 --> 00:04:04.560
+Just like verse, they can be terse,
+allusive, dense and even mysterious.
+
+67
+00:04:04.560 --> 00:04:09.890
+But once unlocked they cast a brilliant
+new light on some aspect of computing.
+
+68
+00:04:09.890 --> 00:04:12.620
+Algorithms are interesting for
+intellectual stimulation.
+
+69
+00:04:14.680 --> 00:04:17.010
+Another reason many people
+study algorithms and
+
+70
+00:04:17.010 --> 00:04:22.260
+I suspect many of you is it's necessary
+to understand good algorithms,
+
+71
+00:04:22.260 --> 00:04:26.560
+efficient algorithms and data structures
+in order to be an efficient programmer.
+
+72
+00:04:27.750 --> 00:04:32.300
+Linus Torvalds who created Linux says
+that the difference between a bad
+
+73
+00:04:32.300 --> 00:04:35.850
+programmer and a good one is
+whether he considers his code or
+
+74
+00:04:35.850 --> 00:04:38.010
+his data structures more important.
+
+75
+00:04:38.010 --> 00:04:40.250
+Bad programmers worry about the code.
+
+76
+00:04:40.250 --> 00:04:43.920
+Good programmers worry about data
+structures and their relationships.
+
+77
+00:04:43.920 --> 00:04:46.150
+And I might add the algorithms
+to process them.
+
+78
+00:04:47.490 --> 00:04:50.818
+Niklaus Wirth,
+another pioneer in computer science,
+
+79
+00:04:50.818 --> 00:04:55.086
+wrote a famous book called Algorithms
++ Data Structures = Programs.
+
+80
+00:04:56.804 --> 00:05:00.805
+[COUGH] Another reason,
+nowadays, to study algorithms,
+
+81
+00:05:00.805 --> 00:05:05.625
+is that they have become a common
+language for understanding nature,
+
+82
+00:05:05.625 --> 00:05:09.874
+algorithms are computational models and
+algorithmic models
+
+83
+00:05:09.874 --> 00:05:14.990
+are replacing mathematical models and
+scientific inquiry.
+
+84
+00:05:14.990 --> 00:05:19.840
+In the 20th century,
+scientist develop mathematical models to
+
+85
+00:05:19.840 --> 00:05:24.100
+try to understand natural phenomenon,
+it soon
+
+86
+00:05:24.100 --> 00:05:27.850
+became clear that those mathematical
+models were difficult to solve.
+
+87
+00:05:27.850 --> 00:05:30.630
+It was difficult to create solutions
+
+88
+00:05:30.630 --> 00:05:33.980
+to be able to test hypotheses
+against natural phenomena.
+
+89
+00:05:35.090 --> 00:05:37.650
+So more and more and more, nowadays,
+
+90
+00:05:37.650 --> 00:05:42.180
+people are developing computational
+models, where they attempt to
+
+91
+00:05:42.180 --> 00:05:46.310
+simulate what might be happening in nature
+in order to try to better understand it.
+
+92
+00:05:47.390 --> 00:05:51.260
+Algorithms play extremely
+important role this process and
+
+93
+00:05:51.260 --> 00:05:53.000
+you'll see some of these in this course.
+
+94
+00:05:55.050 --> 00:05:57.370
+Another important reason is that,
+
+95
+00:05:57.370 --> 00:06:02.441
+if you known how to effectively
+use algorithms in data structures,
+
+96
+00:06:02.441 --> 00:06:06.820
+you're going to have a much
+better chance at interviewing for
+
+97
+00:06:06.820 --> 00:06:12.570
+a job in the technology
+industry than if you don't.
+
+98
+00:06:12.570 --> 00:06:17.880
+Here's a bunch of reasons that I just
+went through for studying algorithms.
+
+99
+00:06:17.880 --> 00:06:19.980
+Their impact's broad and far reaching.
+
+100
+00:06:19.980 --> 00:06:23.250
+They have old roots and
+present new opportunities.
+
+101
+00:06:23.250 --> 00:06:26.820
+That allows to solve problems that
+could not otherwise be addressed.
+
+102
+00:06:26.820 --> 00:06:27.660
+You can use them for
+
+103
+00:06:27.660 --> 00:06:30.940
+intellectual stimulation to
+become a proficient programmer.
+
+104
+00:06:30.940 --> 00:06:34.220
+They might unlock the secrets of life
+in the universe and they're good for
+
+105
+00:06:34.220 --> 00:06:35.530
+fun and profit.
+
+106
+00:06:35.530 --> 00:06:39.950
+In fact, a programmer might ask,
+why study anything else?
+
+107
+00:06:39.950 --> 00:06:42.819
+Well, there's plenty of good
+reasons to study other things, but
+
+108
+00:06:42.819 --> 00:06:45.546
+I'll submit there's no good
+reason not to study algorithms.
+
+109
+00:06:48.309 --> 00:06:52.793
+[COUGH] So for this course we have two
+resources that I want to talk about and
+
+110
+00:06:52.793 --> 00:06:57.520
+make sure that people are familiar
+with before entering into the content.
+
+111
+00:06:58.910 --> 00:07:02.460
+This is a publishing model that Kevin,
+Wayne, and I developed and
+
+112
+00:07:02.460 --> 00:07:04.710
+have been using for many years.
+
+113
+00:07:04.710 --> 00:07:08.958
+And we think it's a very effective
+way to support the kinds of
+
+114
+00:07:08.958 --> 00:07:12.717
+lectures that we're going to
+be giving in this course.
+
+115
+00:07:12.717 --> 00:07:16.832
+Down at the bottom ant it's optional for
+this course, we have a textbook, it's
+
+116
+00:07:16.832 --> 00:07:20.672
+a traditional textbook that extensively
+covered the topic in the course.
+
+117
+00:07:20.672 --> 00:07:24.280
+In fact, many more topics then
+we can present in lecture.
+
+118
+00:07:24.280 --> 00:07:26.570
+And then,
+supporting that textbook is free,
+
+119
+00:07:26.570 --> 00:07:29.620
+online material that
+we call the book site.
+
+120
+00:07:29.620 --> 00:07:33.160
+You can go to the book site
+to see the lecture slides.
+
+121
+00:07:33.160 --> 00:07:36.710
+But more important,
+there's code, there's exercises,
+
+122
+00:07:36.710 --> 00:07:38.760
+there's a great deal of information there.
+
+123
+00:07:38.760 --> 00:07:44.710
+In fact, maybe ten times, what's in the
+book, including a summary of the content.
+
+124
+00:07:44.710 --> 00:07:49.100
+So during this course you'll
+be referring to the book site
+
+125
+00:07:49.100 --> 00:07:51.120
+frequently while working online.
+
+126
+00:07:54.300 --> 00:07:56.610
+People often ask about prerequisites.
+
+127
+00:07:57.770 --> 00:08:01.550
+We're assuming that people who take
+this course know how to program.
+
+128
+00:08:01.550 --> 00:08:04.756
+You know the basics of loops,
+arrays, functions.
+
+129
+00:08:04.756 --> 00:08:09.670
+They have some exposure to object
+oriented programming and recursion.
+
+130
+00:08:09.670 --> 00:08:14.290
+We use the Java language, but
+we don't dwell on details of Java.
+
+131
+00:08:14.290 --> 00:08:17.890
+We mostly use it as
+an expository language.
+
+132
+00:08:17.890 --> 00:08:20.370
+We do some Math but not advanced Math.
+
+133
+00:08:22.198 --> 00:08:27.050
+If you want to review the material that
+we think is prerequisite to the material
+
+134
+00:08:27.050 --> 00:08:31.896
+in this course, you can do a quick
+review by looking at sections 1.1 and
+
+135
+00:08:31.896 --> 00:08:37.940
+1.2 of the book, either at
+the book site or in the textbook.
+
+136
+00:08:37.940 --> 00:08:41.050
+If you want an in depth review
+we have a full textbook
+
+137
+00:08:41.050 --> 00:08:46.280
+called an introduction to programming
+in Java, an interdisciplinary approach.
+
+138
+00:08:46.280 --> 00:08:49.720
+Others of booksite and a textbook as well.
+
+139
+00:08:49.720 --> 00:08:52.920
+But the bottom line is you
+should be able to program and
+
+140
+00:08:52.920 --> 00:08:57.580
+the quick exercise to get ready use to
+write a Java program on your computer
+
+141
+00:08:57.580 --> 00:09:02.140
+perhaps using our programming
+model as describe on the bookside.
+
+142
+00:09:02.140 --> 00:09:05.020
+We'll provide much more
+detailed information on that
+
+143
+00:09:05.020 --> 00:09:06.240
+as we get into assignments.
+
+144
+00:09:07.310 --> 00:09:10.050
+You can use your own programming
+environment if you're comfortable with
+
+145
+00:09:10.050 --> 00:09:12.050
+one, or you can download ours.
+
+146
+00:09:12.050 --> 00:09:14.883
+We have instructions on
+the web about how to do that.
