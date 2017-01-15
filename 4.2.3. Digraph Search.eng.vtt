@@ -742,7 +742,7 @@ sour-, source vertices. here's an
 
 149
 00:15:50.073 --> 00:15:57.325
-application of depth-first search. Let's
+application of breadth-first search. Let's
 say you want to crawl the whole web, well,
 
 150
