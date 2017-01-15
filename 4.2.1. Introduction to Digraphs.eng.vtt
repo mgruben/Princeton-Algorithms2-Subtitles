@@ -458,11 +458,11 @@ so-called transitive closure.
 92
 00:07:43.299 --> 00:07:49.108
 And for that, you just want to be able
-answer the query given vertices v and w as
+answer the query given vertices v and w is
 
 93
 00:07:49.108 --> 00:07:52.460
-their path from w to v, a transitive
+there a path from w to v, that's transitive
 closure.
 
 94
