@@ -105,12 +105,12 @@ is the number of vertices.
 Now we have to remember when we're doing
 
 22
-00:01:51.692 --> 00:01:56.700
+00:01:51.692 --> 00:01:59.000
 representations that we can have various
 anomalies in the graph.
 
 23
-00:01:56.935 --> 00:02:03.351
+00:01:59.000 --> 00:02:03.351
 So we can we draw edges, but actually, in
 real data we might have multiple edges or
 
