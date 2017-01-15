@@ -66,12 +66,12 @@ So we're going to build a class that uses
 our standard representation, that will
 
 14
-00:01:11.104 --> 00:01:14.228
-enable clients to find connective
+00:01:11.104 --> 00:01:17.000
+enable clients to find connected
 components.
 
 15
-00:01:14.228 --> 00:01:17.561
+00:01:17.000 --> 00:01:17.561
 It's really interesting to think about
 this one.
 
