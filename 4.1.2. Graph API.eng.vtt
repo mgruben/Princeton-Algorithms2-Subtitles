@@ -581,8 +581,8 @@ So here's the full implementation of the
 
 117
 00:10:36.152 --> 00:10:40.697
-Jason C,
-List graph representation.
+adjacency list
+graph representation.
 
 118
 00:10:41.098 --> 00:10:49.190
