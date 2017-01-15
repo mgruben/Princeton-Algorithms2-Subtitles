@@ -91,7 +91,7 @@ mark them.
 
 19
 00:01:26.600 --> 00:01:33.440
-So we did queue 0 and
+So we dequeue 0 and
 then in order to process 0 we need to
 
 20
