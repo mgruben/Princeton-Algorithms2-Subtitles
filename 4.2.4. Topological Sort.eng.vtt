@@ -368,7 +368,7 @@ an additional data structure, which is a
 74
 00:06:30.445 --> 00:06:35.255
 stack of integers, which is the vertices
-and reverse postorder.
+in reverse postorder.
 
 75
 00:06:35.474 --> 00:06:41.673
