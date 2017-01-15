@@ -422,7 +422,7 @@ dates back to 1960, where. We run DFS to
 
 85
 00:09:01.521 --> 00:09:07.434
-mark all ritual objects. and then go
+mark all reachable objects. and then go
 through and sweep through all possible
 
 86
