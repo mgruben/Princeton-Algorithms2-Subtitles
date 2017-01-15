@@ -117,12 +117,12 @@ And the out-degree, obviously, is the
 
 24
 00:01:51.757 --> 00:01:57.109
-number of variables leaving the vertex and
+number of arrows leaving the vertex and
 in the in-degree is the number of
 
 25
 00:01:57.109 --> 00:02:02.678
-variables coming into the vertex.
+arrows coming into the vertex.
 Those are the basic definitions. let's
 
 26
