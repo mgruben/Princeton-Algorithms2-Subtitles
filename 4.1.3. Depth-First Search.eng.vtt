@@ -1291,29 +1291,29 @@ through all the adjacent vertices.
 So that's the basic properties of
 
 259
-00:21:52.951 --> 00:21:58.323
+00:21:52.951 --> 00:22:01.000
 depth-first search.
 So now, the other thing that is important
 
 260
-00:21:58.323 --> 00:22:04.894
+00:22:01.000 --> 00:22:09.000
 is that a client who has, uses this
 algorithm after the depth-first search,
 
 261
-00:22:04.894 --> 00:22:11.554
+00:22:09.000 --> 00:22:13.000
 after the constructor has done the
 depth-first search and built these data
 
 262
-00:22:11.554 --> 00:22:16.260
+00:22:13.000 --> 00:22:18.000
 structures,
-Client can find the vertices connected to
+a client can find the vertices connected to
 
 263
-00:22:16.260 --> 00:22:22.298
+00:22:18.000 --> 00:22:22.298
 the source in constant time.
-And can find a path, 2S if one exists in
+And it can find a path, to s, if one exists, in
 
 264
 00:22:22.298 --> 00:22:29.459
