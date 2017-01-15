@@ -281,7 +281,7 @@ The constructor will read those two things
 
 57
 00:05:00.626 --> 00:05:07.271
-and then call that edge for all of these
+and then call addEdge for all of these
 pairs of things and that enables this
 
 58
