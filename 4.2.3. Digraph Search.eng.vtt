@@ -348,7 +348,7 @@ digraph-processing. And of course these
 70
 00:07:15.426 --> 00:07:23.907
 digraphs can be huge. another classic use
-of depth for search in digraphs is garbage
+of depth-first search in digraphs is garbage
 
 71
 00:07:23.907 --> 00:07:32.664
