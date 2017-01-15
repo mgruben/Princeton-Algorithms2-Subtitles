@@ -165,8 +165,13 @@ have edges in both directions.
 But with digraphs, we allow the
 abstraction of one-way streets.
 
+34
+00:02:40.289 --> 00:02:48.000
+Here's another, more abstract example, this
+is the political blogosphere with
+
 35
-00:02:46.406 --> 00:02:50.008
+00:02:48.000 --> 00:02:50.008
 connections.
 If, If blogs have links to one another as
 
