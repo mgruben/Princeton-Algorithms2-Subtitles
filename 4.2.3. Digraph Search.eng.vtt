@@ -218,7 +218,7 @@ then we're done with zero, and that gives,
 44
 00:04:35.095 --> 00:04:41.264
 the set of all vertices that are reachable
-from zero, and not only that the edge to
+from zero, and not only that the edgeTo
 
 45
 00:04:41.264 --> 00:04:46.713
