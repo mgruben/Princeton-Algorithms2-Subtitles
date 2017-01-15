@@ -507,7 +507,7 @@ with, is called the adjacency list
 102
 00:09:15.699 --> 00:09:20.778
 representation.
-And that's where we keep a vertex index
+And that's where we keep a vertex-indexed
 
 103
 00:09:20.778 --> 00:09:28.849
