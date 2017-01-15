@@ -912,7 +912,7 @@ it to the queue of places we have to go
 
 183
 00:19:39.569 --> 00:19:46.450
-and also mark it. Discovered that ad just
+and also mark it. discovered.add just
 means mark it. so now, while the queue's
 
 184
