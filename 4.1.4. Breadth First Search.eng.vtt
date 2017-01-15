@@ -82,7 +82,7 @@ that's where we start.
 17
 00:01:19.020 --> 00:01:23.070
 And now we're going to repeat until
-queue is empty or remove a vertex,
+queue is empty remove a vertex,
 
 18
 00:01:23.070 --> 00:01:26.600
