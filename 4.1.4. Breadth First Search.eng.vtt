@@ -417,7 +417,7 @@ some vertices of distance k plus one.
 87
 00:06:53.240 --> 00:07:00.350
 So they're on a queue, we're processing
-them in first and first out order.
+them in first-in-first-out order.
 
 88
 00:07:00.350 --> 00:07:05.640
