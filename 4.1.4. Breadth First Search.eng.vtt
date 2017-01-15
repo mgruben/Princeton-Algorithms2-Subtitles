@@ -53,7 +53,7 @@ from the queue in order.
 11
 00:00:53.240 --> 00:00:59.070
 Then add to the queue all unmarked
-vertices that are adjacent to these and
+vertices that are adjacent to v and
 
 12
 00:00:59.070 --> 00:01:02.680
