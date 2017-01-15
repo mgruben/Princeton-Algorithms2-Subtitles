@@ -65,13 +65,13 @@ So first thing is how to represent the
 vertices.
 
 14
-00:01:08.688 --> 00:01:15.120
+00:01:08.688 --> 00:01:14.000
 So what we're going to do in this lecture
-is just use integers between zero and V
+is just use integers between zero and
 
 15
-00:01:15.120 --> 00:01:18.932
-minus one.
+00:01:14.000 --> 00:01:18.932
+V minus one.
 The reason we do that is it allows us, to
 
 16
