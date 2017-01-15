@@ -272,7 +272,7 @@ It marks the vertex and for every adjacent
 
 55
 00:05:41.893 --> 00:05:47.726
-vertex. If its not marked, it does the
+vertex. If it's not marked, it does the
 DFS. and then the client can ask whether
 
 56
