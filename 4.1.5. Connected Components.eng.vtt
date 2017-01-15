@@ -952,8 +952,8 @@ implementation.
 
 191
 00:15:43.900 --> 00:15:50.176
-So that's using DFS to find connector
-components and then to return the idea of
+So that's using DFS to find connected
+components and then to return the id of
 
 192
 00:15:50.176 --> 00:15:56.088
