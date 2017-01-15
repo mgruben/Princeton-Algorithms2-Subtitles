@@ -1193,7 +1193,7 @@ convince ourselves that it marks all the
 239
 00:20:09.409 --> 00:20:14.919
 vertices connected to S in time
-proportional to some of their degrees,
+proportional to the sum of their degrees,
 
 240
 00:20:14.919 --> 00:20:18.845
