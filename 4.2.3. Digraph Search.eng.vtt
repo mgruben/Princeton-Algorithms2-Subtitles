@@ -813,7 +813,7 @@ do. So all we do is use breadth-first
 163
 00:17:25.100 --> 00:17:31.680
 search the same method is if the queue's
-not empty. Take a website off of the cue.
+not empty, pick a website off the queue.
 
 164
 00:17:31.680 --> 00:17:36.605
