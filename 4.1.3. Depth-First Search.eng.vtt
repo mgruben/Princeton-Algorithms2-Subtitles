@@ -662,8 +662,8 @@ And so the first thing we do is realize
 
 133
 00:11:14.168 --> 00:11:21.090
-that we're gonna need a vertex index array
-to keep track of which vertices are more.
+that we're gonna need a vertex-indexed array
+to keep track of which vertices are marked.
 
 134
 00:11:21.090 --> 00:11:28.590
