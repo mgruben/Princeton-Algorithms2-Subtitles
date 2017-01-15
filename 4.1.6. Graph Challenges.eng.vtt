@@ -706,12 +706,12 @@ So one last one, here's a graph processing
 challenge.
 
 142
-00:12:14.865 --> 00:12:19.825
+00:12:14.865 --> 00:12:21.000
 So this graph, when it's laid out it's got
-two edges that cross between, between
+two edges that cross between
 
 143
-00:12:19.825 --> 00:12:24.408
+00:12:21.000 --> 00:12:24.408
 three and four and zero and five.
 And in general if you have a graph that
 
