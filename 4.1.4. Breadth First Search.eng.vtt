@@ -8,7 +8,7 @@ breadth-first search which
 2
 00:00:07.394 --> 00:00:12.760
 is a completely different way to process
-all the vertices to a given vertex.
+all the vertices connected to a given vertex.
 
 3
 00:00:12.760 --> 00:00:16.570
