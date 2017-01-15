@@ -184,7 +184,7 @@ auxiliary data structures for this.
 
 39
 00:03:10.420 --> 00:03:12.220
-One is the edge to our array,
+One is the edgeTo array,
 
 40
 00:03:12.220 --> 00:03:17.320
