@@ -1378,7 +1378,7 @@ finally push, push s itself on to the
 276
 00:23:35.121 --> 00:23:40.737
 path and then we have a stack which is
-edible which will give us our path.
+iterable which will give us our path.
 
 277
 00:23:40.956 --> 00:23:47.302
