@@ -502,7 +502,7 @@ queue. We put the source on a queue and mark
 
 101
 00:10:48.209 --> 00:10:54.404
-it as visited and. And as long as the
+it as visited and then as long as the
 queue is non-empty, we remove the least
 
 102
