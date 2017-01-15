@@ -957,8 +957,8 @@ components and then to return the id of
 
 192
 00:15:50.176 --> 00:15:56.088
-a given vertex, just look at up in the
-array and to return then our components
+a given vertex, just look it up in the
+array and to return the number of components
 
 193
 00:15:56.088 --> 00:16:02.657
