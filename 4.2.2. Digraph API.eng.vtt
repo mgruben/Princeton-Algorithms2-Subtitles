@@ -112,17 +112,17 @@ out. it builds the graph and then prints
 
 23
 00:02:18.199 --> 00:02:23.502
-out the edges. By the way, the order in
+out the edges. The way, the order in
 which they come out is in order of vertex
 
 24
 00:02:23.502 --> 00:02:28.990
-and order in which the judge comes out
-depends on the representation just these
+and order in which each edge comes out
+depends on the representation just as
 
 25
 00:02:28.990 --> 00:02:35.665
-four graphs. we'll skip through the
+for graphs. we'll skip through the
 possibilities of keeping a list of edges,
 
 26
