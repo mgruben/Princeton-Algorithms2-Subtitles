@@ -392,8 +392,8 @@ the graph in time proportional to E + V,
 
 82
 00:06:23.500 --> 00:06:30.780
-then there are plus some more vertices and
-so let's look at why that's the case.
+the number of edges plus the number of vertices
+and so let's look at why that's the case.
 
 83
 00:06:30.780 --> 00:06:36.840
