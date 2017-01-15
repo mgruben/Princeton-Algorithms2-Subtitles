@@ -1158,7 +1158,7 @@ implementation to do depth-first search,
 232
 00:19:31.460 --> 00:19:36.569
 from a vertex V.
-What we do is mark V, let's say mark it
+What we do is mark V, let's set marked to
 
 233
 00:19:36.569 --> 00:19:39.701
