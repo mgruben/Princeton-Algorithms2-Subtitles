@@ -1102,12 +1102,12 @@ Both vertex-indexed arrays.
 
 221
 00:18:30.909 --> 00:18:36.161
-One named Mark that will tell us which
+One named marked that will tell us which
 vertices we've been to.
 
 222
 00:18:36.161 --> 00:18:41.413
-And another one, edge two that maintains
+And another one, edgeTo that maintains
 that tree of paths.
 
 223
