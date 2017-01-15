@@ -962,7 +962,7 @@ array and to return the number of components
 
 193
 00:15:56.088 --> 00:16:02.657
-just you can count and then you can build
+just return count and then you can build
 up the needed connectivity API from those.
 
 194
