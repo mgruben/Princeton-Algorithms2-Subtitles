@@ -433,7 +433,7 @@ one, and five so we start by checking six.
 87
 00:07:27.585 --> 00:07:32.853
 We mark it as visited.
-So that's entry six in the ray and now
+So that's entry six in the array and now
 
 88
 00:07:32.853 --> 00:07:38.751
