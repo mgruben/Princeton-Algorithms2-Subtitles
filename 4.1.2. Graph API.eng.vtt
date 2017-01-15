@@ -751,8 +751,8 @@ to the number of edges that, that we
 
 151
 00:13:46.619 --> 00:13:52.176
-examined, with the ray of edges
-representation in the adjacency matrix
+examine, with the array of edges
+representation and the adjacency matrix
 
 152
 00:13:52.176 --> 00:13:57.062
