@@ -167,12 +167,12 @@ first search and visit two. so now to
 
 34
 00:03:35.523 --> 00:03:41.218
-visit we mark two, and say we've got there
+visit we mark two, and say we got there
 from three. and now we check the vertices
 
 35
 00:03:41.218 --> 00:03:46.516
-that we can get two from two. In this case
+we can get to from two. In this case
 it's zero, which we've already been to.
 
 36
