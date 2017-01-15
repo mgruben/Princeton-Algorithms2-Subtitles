@@ -148,7 +148,7 @@ it's very similar to or exactly the same,
 30
 00:03:05.811 --> 00:03:10.765
 really, to the one that we use for
-undirected graphs. We keep a vertex
+undirected graphs. We keep a vertex-
 
 31
 00:03:10.765 --> 00:03:16.651
@@ -158,7 +158,7 @@ can keep a bag of all the vertices that
 32
 00:03:16.651 --> 00:03:22.825
 you can get to from that vertex. So vertex
-six, has out degree four. And there's four
+six, has out-degree four. And there's four
 
 33
 00:03:22.825 --> 00:03:28.280
