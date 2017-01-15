@@ -698,11 +698,11 @@ So now to visit vertex zero, we wanna mark
 140
 00:11:54.659 --> 00:12:00.570
 it so that's, our mark zero as true.
-That's the starting points we know
+That's the starting point so we don't
 
 141
 00:12:00.570 --> 00:12:04.770
-anything with Edge two.
+do anything with edgeTo.
 And now what we're gonna do is.
 
 142
