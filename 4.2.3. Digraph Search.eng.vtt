@@ -527,7 +527,7 @@ proportional to in linear time. So you
 
 106
 00:11:20.087 --> 00:11:29.219
-want the GPS in your car, you BFS when
+want the GPS in your car to use BFS when
 you're driving around lower Manhattan. So,
 
 107
