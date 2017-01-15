@@ -387,13 +387,13 @@ component.
 
 78
 00:06:34.074 --> 00:06:40.485
-So we used the marking to help control the
+So we use the marking to help control the
 DFS but also to control the connected
 
 79
 00:06:40.485 --> 00:06:47.425
-components that the vertices that already
-have been processed and known to be in a
+components that the vertices that have 
+already been processed and known to be in a
 
 80
 00:06:47.425 --> 00:06:52.856
