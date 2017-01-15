@@ -468,7 +468,7 @@ We have to check zero and then we have to
 94
 00:08:06.778 --> 00:08:14.004
 check four so and four is unmarked so
-we're going to recourse and visit four.
+we're going to recurse and visit four.
 
 95
 00:08:14.004 --> 00:08:18.710
