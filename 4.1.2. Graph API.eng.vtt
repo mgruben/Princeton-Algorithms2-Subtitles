@@ -247,7 +247,7 @@ then w.
 50
 00:04:15.805 --> 00:04:22.618
 This actually prints out every edge twice
-and in an undirected graph because if the
+in an undirected graph because if
 
 51
 00:04:22.618 --> 00:04:28.570
