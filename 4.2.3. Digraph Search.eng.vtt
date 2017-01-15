@@ -427,7 +427,7 @@ through and sweep through all possible
 
 86
 00:09:07.434 --> 00:09:14.077
-objects. And if it's object is unmarked
+objects. And if its object is unmarked
 it's garbage so add it to the list of free
 
 87
