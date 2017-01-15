@@ -68,11 +68,11 @@ visited, and recursively visit all
 14
 00:01:30.348 --> 00:01:39.180
 unmarked vertices W, that you can get to
-from V. let's look at the demo, just to, .
+from V. let's look at the demo, just to
 
 15
 00:01:39.180 --> 00:01:44.592
-Reinforce that. So, here's a sample
+reinforce that. So, here's a sample
 digraph with the edges over at the right.
 
 16
