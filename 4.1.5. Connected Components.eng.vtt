@@ -362,7 +362,7 @@ So let's look at the implementation.
 
 73
 00:06:08.774 --> 00:06:14.962
-So our goal is to petition the vertices
+So our goal is to partition the vertices
 into connected components.
 
 74
