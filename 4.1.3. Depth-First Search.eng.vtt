@@ -893,12 +893,12 @@ Check four, that's also, been marked so we
 179
 00:14:58.640 --> 00:15:03.060
 don't have to do anything.
-So now finally, this is the first time and
+So now finally, this is the first time in
 
 180
 00:15:03.060 --> 00:15:08.165
-that requires a call that we're ready to
-return, we're done with that first search
+the recursive calls that we're ready to
+return, we're done with depth-first search
 
 181
 00:15:08.165 --> 00:15:11.393
