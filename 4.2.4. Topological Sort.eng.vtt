@@ -173,7 +173,7 @@ So let's look at a demo of topological
 35
 00:02:57.292 --> 00:03:03.905
 sort.
-And all of this is just run DFS, but there
+And all it is, is just run DFS, but there
 
 36
 00:03:03.905 --> 00:03:11.242
