@@ -363,7 +363,7 @@ convinced that it works.
 73
 00:06:25.051 --> 00:06:30.445
 So it's depth-first search but we have
-additional data structure, which is a
+an additional data structure, which is a
 
 74
 00:06:30.445 --> 00:06:35.255
