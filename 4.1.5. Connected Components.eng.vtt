@@ -343,7 +343,7 @@ about in so many applications.
 69
 00:05:51.280 --> 00:05:56.921
 If you can process all the edges you can
-also find out the connective components
+also find out the connected components
 
 70
 00:05:56.921 --> 00:06:00.821
@@ -388,7 +388,7 @@ component.
 78
 00:06:34.074 --> 00:06:40.485
 So we used the marking to help control the
-DFS but also to control the connective
+DFS but also to control the connected
 
 79
 00:06:40.485 --> 00:06:47.425
@@ -397,7 +397,7 @@ have been processed and known to be in a
 
 80
 00:06:47.425 --> 00:06:52.856
-given connective component.
+given connected component.
 So let's look at a demo to understand how
 
 81
@@ -493,7 +493,7 @@ before.
 99
 00:08:31.940 --> 00:08:37.481
 But now we're just keeping track of the
-connective component number, and we're
+connected component number, and we're
 
 100
 00:08:37.481 --> 00:08:42.880
@@ -993,7 +993,7 @@ was a contact.
 199
 00:16:33.979 --> 00:16:40.568
 And so it's obvious that you're going to
-be interested in connective components of
+be interested in connected components of
 
 200
 00:16:40.568 --> 00:16:44.457
@@ -1078,7 +1078,7 @@ than less than some threshold.
 216
 00:18:00.290 --> 00:18:06.228
 And so then if you do that, and then find
-the connective components, then you can
+the connected components, then you can
 
 217
 00:18:06.228 --> 00:18:11.351
