@@ -392,7 +392,7 @@ DFS but also to control the connected
 
 79
 00:06:40.485 --> 00:06:47.425
-components that the vertices that have 
+components that the vertices that have
 already been processed and known to be in a
 
 80
@@ -403,11 +403,11 @@ So let's look at a demo to understand how
 81
 00:06:52.856 --> 00:06:57.942
 this algorithm works.
-So again, we're going to use depth for
+So again, we're going to use depth-first
 
 82
 00:06:57.942 --> 00:07:02.742
-search and there, summary of depth for
+search and there, summary of depth-first
 search, divisative vertex, we mark it as
 
 83
