@@ -562,7 +562,7 @@ adjacent to each given vertex in a bag.
 113
 00:10:14.296 --> 00:10:19.440
 And we know that we can implement it, such
-that we can iterate through and time
+that we can iterate through in time
 
 114
 00:10:19.440 --> 00:10:24.678
