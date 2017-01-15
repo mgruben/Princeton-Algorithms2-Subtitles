@@ -228,12 +228,12 @@ contain a cycle or not?
 46
 00:03:54.009 --> 00:04:01.816
 So in this case, there's a cycle, zero to
-five to four to six back to zero, and this
+five to four to six back to zero, and there's
 
 47
 00:04:01.816 --> 00:04:08.642
-other cycle's two, zero, one, three, two
-there are two, four, six those are all
+other cycles too: zero, one, three, two;
+zero, two, four, six, those are all
 
 48
 00:04:08.642 --> 00:04:12.885
