@@ -683,11 +683,11 @@ this problem you're given a digraph and a
 137
 00:14:36.590 --> 00:14:42.480
 set of source vertices, and you want to
-find the shortest path from any vertix in
+find the shortest path from any vertex in
 
 138
 00:14:42.480 --> 00:14:47.932
-the set to each other vertix. So for
+the set to each other vertex. So for
 example, in this case if the set is one,
 
 139
