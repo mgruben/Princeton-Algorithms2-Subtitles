@@ -637,7 +637,7 @@ adjacent vertices. In this case three,
 
 128
 00:13:42.130 --> 00:13:48.485
-it's unmarked so we put it on the Q. Then
+it's unmarked so we put it on the queue. Then
 we're done with four. Then from three we
 
 129
@@ -647,13 +647,13 @@ one more distance from the source so we
 
 130
 00:13:54.762 --> 00:14:01.039
-put it on the Q. And then finally. Oh we
+put it on the queue. And then finally. Oh we
 check two which we already visited so we
 
 131
 00:14:01.039 --> 00:14:07.333
 don't have to, to do anything. And then
-finally we pull five off the Q. check. Or
+finally we pull five off the queue. check. Or
 
 132
 00:14:07.333 --> 00:14:12.382
