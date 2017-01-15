@@ -113,7 +113,7 @@ directed edges going out. so there's five
 23
 00:02:26.324 --> 00:02:32.652
 and then there's gonna be one. but five is
-unmarked so we have to re-cursedly visit
+unmarked so we have to recursively visit
 
 24
 00:02:32.652 --> 00:02:40.967
