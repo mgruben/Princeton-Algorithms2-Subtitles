@@ -421,32 +421,32 @@ Okay.
 So, reverse DFS postorder of a DAG is the
 
 85
-00:07:27.486 --> 00:07:31.941
+00:07:27.486 --> 00:07:33.000
 topological order.
 That's, the correctness proof, that we
 
 86
-00:07:31.941 --> 00:07:36.263
+00:07:33.000 --> 00:07:39.000
 have to consider.
 This diagram over here, is a record of the
 
 87
-00:07:36.263 --> 00:07:39.787
+00:07:39.000 --> 00:07:43.000
 recursive calls, for that example that we
 just did.
 
 88
-00:07:39.986 --> 00:07:43.907
+00:07:43.000 --> 00:07:47.000
 To visit zero, we probably visit one, and
 then we visit four.
 
 89
-00:07:43.909 --> 00:07:47.830
+00:07:47.000 --> 00:07:49.000
 And then we're done with four, and then
 we're done with one.
 
 90
-00:07:47.832 --> 00:07:53.679
+00:07:49.000 --> 00:07:53.679
 And then we visit two, down with two, Then
 do five, which checks two, And five down
 
