@@ -578,8 +578,8 @@ in really an accessible way.
 
 121
 00:09:33.300 --> 00:09:37.790
-So that's the implementation of for
-search and then the client for
+So that's the implementation of breadth-
+first search and then the client for
 
 122
 00:09:37.790 --> 00:09:38.900
