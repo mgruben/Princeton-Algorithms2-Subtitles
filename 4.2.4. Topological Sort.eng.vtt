@@ -651,17 +651,17 @@ And it really has many, many applications.
 So for example, the Java compiler actually
 
 131
-00:11:27.303 --> 00:11:31.661
+00:11:27.303 --> 00:11:34.000
 does cycle detection.
 If you have a class A extends B, and
 
 132
-00:11:31.661 --> 00:11:35.635
+00:11:34.000 --> 00:11:37.000
 another one B extends C, and another one C
 extends A,
 
 133
-00:11:35.635 --> 00:11:41.139
+00:11:37.000 --> 00:11:41.139
 That's going to create a problem.
 Class hierarchies are not supposed to have
 
