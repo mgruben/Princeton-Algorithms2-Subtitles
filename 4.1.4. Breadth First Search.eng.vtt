@@ -296,7 +296,7 @@ from each node to the source.
 
 62
 00:05:05.780 --> 00:05:08.600
-So that's a demo of breadth first search,
+So that's a demo of breadth-first search,
 and
 
 63
@@ -715,7 +715,7 @@ which you can get to anyone with six steps
 149
 00:11:42.740 --> 00:11:48.980
 in this way, so that's all
-implementation of breadth first search.
+implementation of breadth-first search.
 
 150
 00:11:48.980 --> 00:11:53.114
