@@ -27,7 +27,7 @@ class is named digraph. And other than
 
 6
 00:00:33.555 --> 00:00:39.253
-that. It's got add edge, where we add a
+that. It's got addEdge, where we add a
 directed edge. But now, we're saying it's
 
 7
