@@ -652,7 +652,7 @@ So for example, the Java compiler actually
 
 131
 00:11:27.303 --> 00:11:31.661
-does cycle con, detection.
+does cycle detection.
 If you have a class A extends B, and
 
 132
