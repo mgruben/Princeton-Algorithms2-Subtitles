@@ -677,7 +677,7 @@ structure.
 
 136
 00:11:32.871 --> 00:11:40.365
-A, a vertex indexed array of ints.
+A, a vertex-indexed array of ints.
 That for every vertex gives us the vertex
 
 137
