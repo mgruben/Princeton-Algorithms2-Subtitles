@@ -183,11 +183,11 @@ unions and finds.
 37
 00:03:02.347 --> 00:03:06.207
 And in this case, because we're working
-with the graph it's like we're taking all
+with a graph it's like we're taking all
 
 38
 00:03:06.207 --> 00:03:09.270
-the unions and then we are handling fine
+the unions and then we are handling find
 requests.
 
 39
