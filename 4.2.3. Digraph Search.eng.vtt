@@ -893,7 +893,7 @@ abstractions to implement the algorithms
 179
 00:19:10.983 --> 00:19:18.476
 that we're interested in. so this one
-we're gonna use a cue. Queue of strings so
+we're gonna use a queue. Queue of strings so
 
 180
 00:19:18.686 --> 00:19:25.392
