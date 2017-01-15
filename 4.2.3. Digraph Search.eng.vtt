@@ -232,13 +232,13 @@ precisely the same method that we used
 
 47
 00:04:51.912 --> 00:04:57.111
-before. We get the four from five, we get
-the five from zero, so zero, five, four is
+before. We get to four from five, we get
+to five from zero, so zero, five, four is
 
 48
 00:04:57.111 --> 00:05:03.080
 the path to four. And we can do that for
-any vertex in that cell. Okay. So what
+any vertex in that set. Okay. So what
 
 49
 00:05:03.080 --> 00:05:10.580
