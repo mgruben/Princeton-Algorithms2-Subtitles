@@ -187,7 +187,7 @@ the number of edges and vertices.
 38
 00:03:09.804 --> 00:03:14.080
 But then there's an iterator that takes
-the vertex's argument,
+a vertex as argument,
 
 39
 00:03:14.080 --> 00:03:19.260
