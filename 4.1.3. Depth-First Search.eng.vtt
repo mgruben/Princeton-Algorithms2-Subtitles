@@ -1087,7 +1087,7 @@ based on like maze exploration where we
 
 218
 00:18:15.117 --> 00:18:20.393
-use excursion, mark each vertex, keep
+use recursion, mark each vertex, keep
 track of the edge we took to visit it and
 
 219
