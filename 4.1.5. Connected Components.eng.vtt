@@ -328,16 +328,16 @@ And again when you really think about it
 66
 00:05:36.377 --> 00:05:42.645
 it's kind of amazing that we can do this
-computation in linear time even for a huge
+computation in linear time even for huge
 
 67
 00:05:42.645 --> 00:05:46.057
-graph.
+graphs.
 And it's really important to be able to do
 
 68
 00:05:46.057 --> 00:05:51.071
-so for the very huge graph that we talked
+so for those very huge graphs that we talked
 about in so many applications.
 
 69
