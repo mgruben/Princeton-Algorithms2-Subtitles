@@ -498,7 +498,7 @@ connected component number, and we're
 100
 00:08:37.481 --> 00:08:42.880
 assigning every vertex that we encounter
-with the same idea as zero.
+with the same ID as zero.
 
 101
 00:08:43.906 --> 00:08:49.764
