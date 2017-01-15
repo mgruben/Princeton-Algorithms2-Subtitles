@@ -437,13 +437,13 @@ still widely used. it uses an extra bit
 
 88
 00:09:20.866 --> 00:09:26.779
-per object'cause you have to have to have
-that for the mark. But still, it's
+per object 'cause you have to have to have
+that for the mark. But still, it's an
 
 89
 00:09:26.998 --> 00:09:33.821
 effective and useful digraph solution. So
-DFS with reachability that we've just
+DFS with reachability that we just
 
 90
 00:09:33.821 --> 00:09:40.868
