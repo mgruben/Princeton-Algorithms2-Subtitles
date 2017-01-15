@@ -379,7 +379,7 @@ computes shortest path.
 79
 00:06:13.210 --> 00:06:16.650
 That is it builds the data structure
-that we can answer sure as path
+that we can answer shortest path
 
 80
 00:06:16.650 --> 00:06:18.650
