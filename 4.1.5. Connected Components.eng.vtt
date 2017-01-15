@@ -193,12 +193,12 @@ requests.
 39
 00:03:09.456 --> 00:03:14.551
 So anyway what we're going to use to
-implement this is a depth first search
+implement this is a depth-first search
 
 40
 00:03:14.551 --> 00:03:17.844
 approach.
-So we'll do the depth first search, we'll
+So we'll do the depth-first search, we'll
 
 41
 00:03:17.844 --> 00:03:22.380
@@ -628,7 +628,7 @@ And so the next unmarked vertex that we
 126
 00:10:29.323 --> 00:10:36.921
 find in the graph is seven.
-So once we return from the depth first
+So once we return from the depth-first
 
 127
 00:10:36.921 --> 00:10:42.742
@@ -967,7 +967,7 @@ up the needed connectivity API from those.
 
 194
 00:16:02.876 --> 00:16:07.110
-So that's depth first search to find
+So that's depth-first search to find
 connected components.
 
 195
