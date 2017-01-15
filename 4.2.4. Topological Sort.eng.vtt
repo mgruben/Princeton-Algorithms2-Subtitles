@@ -571,23 +571,23 @@ So that's the correctness proof for
 topological order.
 
 115
-00:10:07.625 --> 00:10:11.304
+00:10:07.625 --> 00:10:14.000
 So, a similar, process, is, to detect a
 cycle.
 
 116
-00:10:11.304 --> 00:10:15.187
+00:10:14.000 --> 00:10:17.000
 A topological sort doesn't work if a
 graph's got a cycle,
 
 117
-00:10:15.187 --> 00:10:20.433
+00:10:17.000 --> 00:10:21.000
 So one of the things we might want to do
 is, just, find cycles in digraphs.
 
 118
-00:10:20.433 --> 00:10:25.951
-Now, if you're a college and you put out a
+00:10:21.000 --> 00:10:25.951
+If you're a college and you put out a
 curriculum that's got a directed cycle,
 
 119
