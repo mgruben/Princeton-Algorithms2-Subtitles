@@ -277,7 +277,7 @@ And that's the data structure that our
 
 56
 00:04:40.198 --> 00:04:46.131
-depth for search is going to built, and
+depth-first search is going to built, and
 that immediately gives the constant time
 
 57
