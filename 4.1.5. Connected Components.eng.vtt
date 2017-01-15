@@ -407,12 +407,12 @@ So again, we're going to use depth-first
 
 82
 00:06:57.942 --> 00:07:02.742
-search and there, summary of depth-first
-search, divisative vertex, we mark it as
+search, and our summary of depth-first
+search, to visit a vertex, we mark it as
 
 83
 00:07:02.742 --> 00:07:07.730
-visitive and then recursively visit all
+visited and then recursively visit all
 the unmarked vertices that are adjacent.
 
 84
