@@ -172,7 +172,7 @@ input stream.
 35
 00:02:52.580 --> 00:02:58.812
 Then the basic operation for building a
-graph is just add edge, so that adds an
+graph is just addEdge, so that adds an
 
 36
 00:02:58.812 --> 00:03:04.838
