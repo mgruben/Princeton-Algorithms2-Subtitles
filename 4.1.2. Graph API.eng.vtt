@@ -367,7 +367,7 @@ efficient way to do it or say number of
 74
 00:06:39.545 --> 00:06:45.232
 self loops. and so that involves going
-through the whole graph of every vertex
+through the whole graph for every vertex
 
 75
 00:06:45.232 --> 00:06:51.621
