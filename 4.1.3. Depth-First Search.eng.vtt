@@ -1372,8 +1372,8 @@ Pushing the vertex onto the stack and
 
 275
 00:23:29.212 --> 00:23:35.121
-then moving up the tree in the ray, then
-finally push, push as itself on to the
+then moving up the tree in the array, then
+finally push, push s itself on to the
 
 276
 00:23:35.121 --> 00:23:40.737
