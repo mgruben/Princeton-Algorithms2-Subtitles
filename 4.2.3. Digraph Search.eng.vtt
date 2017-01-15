@@ -87,7 +87,7 @@ zero in this digraph. Again, we have two
 
 18
 00:01:56.318 --> 00:02:02.147
-vertex index to raise. one called marked,
+vertex-indexed arrays. one called marked,
 which says whether we can get there from
 
 19
