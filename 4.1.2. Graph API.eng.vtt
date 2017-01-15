@@ -110,12 +110,12 @@ representations that we can have various
 anomalies in the graph.
 
 23
-00:01:59.000 --> 00:02:03.351
+00:01:59.000 --> 00:02:05.000
 So we can we draw edges, but actually, in
 real data we might have multiple edges or
 
 24
-00:02:03.351 --> 00:02:09.064
+00:02:05.000 --> 00:02:09.064
 we might have a self loop.
 And we'll take that into account when we
 
