@@ -453,7 +453,7 @@ same connected component.
 91
 00:07:49.916 --> 00:07:56.599
 Every vertex that we encounter during the
-depth per search from zero we're going to
+depth-first search from zero we're going to
 
 92
 00:07:56.835 --> 00:08:02.661
