@@ -176,7 +176,7 @@ graph is just addEdge, so that adds an
 
 36
 00:02:58.812 --> 00:03:04.838
-edge connecting two vertices, V and W.
+edge connecting two given vertices, V and W.
 The basic operations for processing our
 
 37
