@@ -507,8 +507,8 @@ called yet, but if there's an edge from v
 
 102
 00:08:55.956 --> 00:09:02.954
-to w we're going call it and then recurse,
-it's going to finish before we're done
+to w we're going call it and then it's
+recursive, it's going to finish before we're done
 
 103
 00:09:02.954 --> 00:09:07.699
