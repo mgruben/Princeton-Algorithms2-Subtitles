@@ -378,7 +378,7 @@ So in this case, here's the cycle that
 76
 00:06:51.261 --> 00:06:56.757
 uses every edge exactly once.
-And this graph every vertex has even
+In this graph every vertex has even
 
 77
 00:06:56.757 --> 00:07:02.406
