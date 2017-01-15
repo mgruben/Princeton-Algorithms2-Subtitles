@@ -427,7 +427,7 @@ So what we did, when we defined an API for
 
 86
 00:07:14.350 --> 00:07:21.510
-graph was to decouple the graph data type
+graphs was to decouple the graph data type
 from graph processing.
 
 87
