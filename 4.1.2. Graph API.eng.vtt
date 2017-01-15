@@ -147,16 +147,16 @@ a client of this program,
 30
 00:02:30.720 --> 00:02:35.493
 In this, of this API.
-And the idea is most of them have a very
+And the idea is that most of them have
 
 31
-00:02:35.493 --> 00:02:41.833
-simple operations that they need to do,
-and those are the one's that we put in the
+00:02:35.493 --> 00:02:40.000
+just a few very simple operations that
+they need to do, and those are the 
 
 32
-00:02:41.833 --> 00:02:44.220
-API.
+00:02:40.000 --> 00:02:44.220
+ones that we put in the API.
 So we have two constructors.
 
 33
