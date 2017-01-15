@@ -827,7 +827,7 @@ which is the vertices that we visited.
 
 166
 00:13:25.785 --> 00:13:32.410
-And then we keep this vertex index array
+And then we keep this vertex-indexed array
 ID which gives the identifier, the
 
 167
