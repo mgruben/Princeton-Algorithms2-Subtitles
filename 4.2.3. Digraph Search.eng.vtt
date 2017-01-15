@@ -308,12 +308,12 @@ with no conditionals. and then edges
 62
 00:06:23.186 --> 00:06:29.922
 represent, a, jump. If there's an if
-statement, vertex left, two edges going
+statement, a vertex will have two edges going
 
 63
 00:06:29.922 --> 00:06:37.299
 out of it, or, or a loop, which involves a
-conditional. So, , analyzing a program,
+conditional. So, analyzing a program,
 
 64
 00:06:37.540 --> 00:06:43.002
