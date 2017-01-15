@@ -1128,7 +1128,7 @@ search is remarkably compact.
 226
 00:18:58.153 --> 00:19:02.953
 So here's our private instance variables.
-The marked and edgedTo vertex and mix
+The marked and edgedTo vertex-indexed
 
 227
 00:19:02.953 --> 00:19:08.117
