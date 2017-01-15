@@ -488,7 +488,7 @@ first search every undirected graph is
 98
 00:10:28.148 --> 00:10:34.674
 actually a digraph that has edges in both
-direction. So bfs is really a directed
+directions. So BFS is really a directed
 
 99
 00:10:34.674 --> 00:10:41.603
