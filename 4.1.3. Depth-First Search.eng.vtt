@@ -1337,7 +1337,7 @@ So if a vertex is connected to S then its
 
 268
 00:22:49.774 --> 00:22:54.530
-edge two is parent in a tree.
+edgeTo is its parent in the tree.
 So this code here.
 
 269
