@@ -388,7 +388,7 @@ queries from the source with.
 81
 00:06:18.650 --> 00:06:23.500
 From s to all other vertices in
-the graph in time proportional to e + v,
+the graph in time proportional to E + V,
 
 82
 00:06:23.500 --> 00:06:30.780
