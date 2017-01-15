@@ -387,7 +387,7 @@ gets the stack returned, that's
 
 78
 00:06:54.435 --> 00:06:58.465
-inevitable.
+an iterable.
 And iterating through that will give the
 
 79
