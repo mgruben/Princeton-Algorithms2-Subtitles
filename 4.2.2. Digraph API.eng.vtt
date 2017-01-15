@@ -3,7 +3,7 @@ WEBVTT
 1
 00:00:04.000 --> 00:00:09.689
 To develop digraph processing
-Algorithms, we're going to need an A.P.I.
+Algorithms, we're going to need an API
 
 2
 00:00:09.689 --> 00:00:15.617
@@ -12,7 +12,7 @@ use for undirected graphs, where we
 
 3
 00:00:15.617 --> 00:00:21.930
-develop an A.P.I. for building graphs that
+develop an API for building graphs that
 can serve as a client for all our graph
 
 4
@@ -22,7 +22,7 @@ similar, it's not close to identical to
 
 5
 00:00:27.704 --> 00:00:33.555
-the undirected graph A.P.I., except the
+the undirected graph API, except the
 class is named digraph. And other than
 
 6
