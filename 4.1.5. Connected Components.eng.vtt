@@ -298,7 +298,7 @@ they're not.
 60
 00:04:59.361 --> 00:05:05.345
 So that's the data structure that we're
-going to build it's like a unifying tree,
+going to build it's like a union-find tree,
 
 61
 00:05:05.345 --> 00:05:08.440
