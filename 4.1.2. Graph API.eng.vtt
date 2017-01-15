@@ -76,7 +76,7 @@ The reason we do that is it allows us, to
 
 16
 00:01:18.932 --> 00:01:23.776
-use vertex indexed arrays, within the
+use vertex-indexed arrays, within the
 graph representation.
 
 17
