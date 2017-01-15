@@ -681,12 +681,12 @@ what's the shortest way to get to
 142
 00:11:07.388 --> 00:11:12.410
 Kevin Bacon connected by,
-so, we have ed is for
+so, we have edges for
 
 143
 00:11:12.410 --> 00:11:17.340
-actors and edge is for movies in
-a connection of actors in the movie.
+actors and edges for movies and a
+connection if the actor is in the movie.
 
 144
 00:11:17.340 --> 00:11:23.430
