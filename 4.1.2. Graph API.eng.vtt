@@ -592,7 +592,7 @@ we're gonna use are the number of
 119
 00:10:49.190 --> 00:10:57.236
 vertices in the graph and then a array of
-bags of integers. so data the types and
+bags of integers. so data types and
 
 120
 00:10:57.236 --> 00:11:03.911
