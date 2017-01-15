@@ -67,7 +67,7 @@ that we did for undirected graphs, where
 
 14
 00:01:19.142 --> 00:01:25.081
-we read the diagram from input stream, so
+we read a digraph from input stream, so
 that's pairs of edges, pairs of vertices
 
 15
