@@ -92,7 +92,7 @@ which says whether we can get there from
 
 19
 00:02:02.147 --> 00:02:07.490
-V, and the other called edge two, which
+V, and the other called edgeTo, which
 gives us the vertex that took us there.
 
 20
