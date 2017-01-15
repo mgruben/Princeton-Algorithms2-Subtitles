@@ -1112,8 +1112,8 @@ that tree of paths.
 
 223
 00:18:41.667 --> 00:18:48.190
-Where edge 2W = V means that VW was taken,
-the first time that we went to W.
+Where edgeTo[w] == v means that v-w was taken,
+the first time that we went to w.
 
 224
 00:18:48.190 --> 00:18:52.844
