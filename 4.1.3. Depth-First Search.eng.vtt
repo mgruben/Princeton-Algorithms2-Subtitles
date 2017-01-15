@@ -1058,11 +1058,11 @@ now clients, these data structures built
 212
 00:17:41.563 --> 00:17:48.250
 in a constructor serve as the basis for,
-being able to.
+being able to
 
 213
 00:17:48.250 --> 00:17:53.760
-Officially answer client queries.
+efficiently answer client queries.
 That's a depth-first search demo.
 
 214
