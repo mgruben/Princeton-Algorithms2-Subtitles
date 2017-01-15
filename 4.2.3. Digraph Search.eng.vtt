@@ -538,17 +538,17 @@ the distinction between, breadth-first
 108
 00:11:36.257 --> 00:11:43.215
 search, in digraphs and see how it works.
-So this is a, a small graphing, a smaller
+So this is a, a smaller graph-, a smaller
 
 109
 00:11:43.215 --> 00:11:50.013
-digraphic and with six vertices and eight
-edges. we take a Q and we take a source
+digraph again with six vertices and eight
+edges. we take a queue and we take a source
 
 110
 00:11:50.013 --> 00:11:56.731
-vertex and put on the Q to get started.
-then, Q is not empty, so remove zero and
+vertex and put on the queue to get started.
+then, queue is not empty, so remove zero and
 
 111
 00:11:56.731 --> 00:12:03.350
