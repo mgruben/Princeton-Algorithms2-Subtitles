@@ -1367,8 +1367,8 @@ Otherwise we keep a variable X and we just
 
 274
 00:23:22.291 --> 00:23:29.212
-follow up through the edge to array
-Pushing the vertex on to the stack and
+follow up through the edgeTo array
+Pushing the vertex onto the stack and
 
 275
 00:23:29.212 --> 00:23:35.121
