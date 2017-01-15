@@ -518,11 +518,11 @@ then calls BFS.
 108
 00:08:30.420 --> 00:08:35.250
 So BFS builds a queue,
-that's what it's going to use and
+that's what it's going to use, it
 
 109
 00:08:35.250 --> 00:08:38.670
-queues the source and marks the source.
+enqueues the source and marks the source.
 
 110
 00:08:38.670 --> 00:08:43.950
