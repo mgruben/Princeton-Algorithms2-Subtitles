@@ -1173,7 +1173,7 @@ If it's not marked, then we do a recursive
 235
 00:19:45.387 --> 00:19:49.649
 call.
-And we set edge to w equals v.
+And we set edgeTo[w] = v. 
 
 236
 00:19:49.970 --> 00:19:56.280
