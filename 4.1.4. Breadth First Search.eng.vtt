@@ -432,7 +432,7 @@ vertex 0 as soon as we get this one
 90
 00:07:11.820 --> 00:07:16.760
 we'll delete vertex 0 from the queue and
-then we're putting these adjacent ones on.
+then when we're putting these adjacent ones on.
 
 91
 00:07:16.760 --> 00:07:19.530
