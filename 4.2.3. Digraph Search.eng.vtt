@@ -507,8 +507,8 @@ queue is non-empty, we remove the least
 
 102
 00:10:54.404 --> 00:11:00.947
-recently added vertex and add to the que
-ue and mark as visited all the unmarked
+recently added vertex and add to the queue
+and mark as visited all the unmarked
 
 103
 00:11:00.947 --> 00:11:07.491
