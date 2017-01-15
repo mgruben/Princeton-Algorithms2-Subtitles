@@ -525,27 +525,27 @@ is connected to five, six, and three, so
 its list has five, six, and three on it.
 
 106
-00:09:39.184 --> 00:09:44.982
-Now, in lower level representations we've
-talk about using linked width or array for
+00:09:39.184 --> 00:09:48.000
+Now, in lower level representations we'd
+talk about using linked lists or arrays for
 
 107
-00:09:44.982 --> 00:09:48.893
+00:09:48.000 --> 00:09:52.000
 these,
 But actually in modern lingo with the
 
 108
-00:09:48.893 --> 00:09:54.761
-background that we'd built with algorisms
+00:09:52.000 --> 00:09:56.500
+background that we've built with algorithms
 what we're going to use is an abstract
 
 109
-00:09:54.761 --> 00:09:58.742
+00:09:56.500 --> 00:10:01.000
 data type.
 Our bag representation for this, which is
 
 110
-00:09:58.742 --> 00:10:04.190
+00:10:01.000 --> 00:10:04.190
 implemented with a linked list, but we
 don't have to think about it when we're
 
