@@ -667,7 +667,7 @@ to keep track of which vertices are marked.
 
 134
 00:11:21.090 --> 00:11:28.590
-So that will just be an array of bullions
+So that will just be an array of booleans
 and we'll initialize that with all false.
 
 135
