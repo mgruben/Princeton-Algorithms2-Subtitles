@@ -533,7 +533,7 @@ and the reverse of the graph.
 107
 00:09:39.667 --> 00:09:46.139
 And the other is to run the DFS but for
-the other in which we visit the vertices,
+the order in which we visit the vertices,
 
 108
 00:09:46.139 --> 00:09:51.518
