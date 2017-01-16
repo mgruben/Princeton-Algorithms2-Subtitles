@@ -462,8 +462,8 @@ If it was cyclic, it would involve, it
 
 93
 00:08:11.723 --> 00:08:19.161
-would create a bigger strong component, a
-couple of strong components into one.
+would create a bigger strong component, it
+would coalesce a couple of strong components into one.
 
 94
 00:08:19.418 --> 00:08:25.830
