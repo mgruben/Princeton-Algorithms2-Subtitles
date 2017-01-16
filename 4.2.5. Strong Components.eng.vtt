@@ -908,12 +908,12 @@ reverse graph is eleven so we visit
 182
 00:15:35.002 --> 00:15:36.547
 eleven.
-Checked four,
+Check four,
 
 183
 00:15:36.547 --> 00:15:39.196
 It's already marked.
-Checked twelve,
+Check twelve,
 
 184
 00:15:39.196 --> 00:15:44.126
@@ -927,12 +927,12 @@ Then, we get to nine. from nine, we check
 
 186
 00:15:49.332 --> 00:15:54.532
-eleven and nowhere to go. Then, we checked
+eleven and nowhere to go. Then, we check
 ten, and so that's seems a strong
 
 187
 00:15:54.532 --> 00:16:00.441
-component. from ten, we checked twelve,
+component. from ten, we check twelve,
 which is marked. We're done with ten, were
 
 188
