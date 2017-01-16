@@ -483,7 +483,7 @@ compute the topological order or the
 97
 00:08:40.305 --> 00:08:46.669
 reverse post order in the kernel DAG.
-At least put up the edges of the original
+At least put out the edges of the original
 
 98
 00:08:46.669 --> 00:08:53.257
