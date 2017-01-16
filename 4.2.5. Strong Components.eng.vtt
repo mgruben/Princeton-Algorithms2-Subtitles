@@ -317,7 +317,7 @@ surprise that this could be solved in
 
 64
 00:05:38.003 --> 00:05:44.080
-linear time with depth research.
+linear time with depth-first search.
 Now this algorithm had a couple of other
 
 65
