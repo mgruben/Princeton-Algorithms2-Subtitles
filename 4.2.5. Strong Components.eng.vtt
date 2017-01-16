@@ -457,7 +457,7 @@ So the digraph that you get that way,
 
 92
 00:08:06.422 --> 00:08:11.723
-turns out to be a cyclic.
+turns out to be acyclic.
 If it was cyclic, it would involve, it
 
 93
