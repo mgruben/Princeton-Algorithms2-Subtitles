@@ -148,11 +148,11 @@ in the constructor to build the table,
 30
 00:02:36.227 --> 00:02:41.388
 constant time client queries.
-And that's as good performance as we can
+And that's as good performance as we could
 
 31
 00:02:41.388 --> 00:02:45.875
-expect to have for a graph for a graph
+expect to have for a graph
 processing algorithm.
 
 32
