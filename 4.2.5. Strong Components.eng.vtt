@@ -613,7 +613,7 @@ check two
 123
 00:11:03.065 --> 00:11:09.618
 That's unmarked so we mark it and recurse
-and we checked the vertices adjacent to
+and we check the vertices adjacent to
 
 124
 00:11:09.618 --> 00:11:12.210
