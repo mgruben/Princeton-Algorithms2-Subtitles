@@ -1078,12 +1078,12 @@ it was one of the simplest algorithms that
 216
 00:18:39.354 --> 00:18:42.483
 we looked at.
-We just marked the vertices and do
+We just mark the vertices and do
 
 217
 00:18:42.483 --> 00:18:49.383
-recursive and that's the end of it.
-If you take that code and just had I'll
+recursive DFS and that's the end of it.
+If you take that code and just add I'll
 
 218
 00:18:49.383 --> 00:18:56.420
