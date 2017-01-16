@@ -721,37 +721,37 @@ And then from five we check zero it's
 marked so we're done with five, we put it
 
 145
-00:12:40.413 --> 00:12:44.665
+00:12:40.413 --> 00:12:46.000
 on the list.
 And that means that we're now done with
 
 146
-00:12:44.665 --> 00:12:48.281
+00:12:46.000 --> 00:12:50.000
 four.
 And then, we're also done with two, after
 
 147
-00:12:48.281 --> 00:12:52.781
+00:12:50.000 --> 00:12:54.500
 checking three.
 And then, we go to zero and put it on the
 
 148
-00:12:52.781 --> 00:12:55.754
+00:12:54.500 --> 00:12:59.000
 list.
 So, that's all the vertices that, you
 
 149
-00:12:55.754 --> 00:13:00.817
-know, you get through from zero.
+00:12:59.000 --> 00:13:03.000
+get to from zero.
 So, we look for more vertices and it's one
 
 150
-00:13:00.817 --> 00:13:06.040
+00:13:03.000 --> 00:13:07.000
 and it's marked so that's the last one in
 the reverse post order.
 
 151
-00:13:06.040 --> 00:13:10.219
+00:13:07.000 --> 00:13:10.219
 So, that's a reverse post order of the
 reverse graph.
 
