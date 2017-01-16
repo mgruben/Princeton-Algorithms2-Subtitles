@@ -786,12 +786,17 @@ zero, the way we always have, now we start
 with one. we visit one, its unmarked and
 
 158
-00:13:41.697 --> 00:13:47.939
+00:13:41.697 --> 00:13:47.000
 now all the vertices that we visit during
 that DFS are going to be in the same
 
+159
+00:13:47.000 --> 00:13:51.000
+strong component, that's the theorem that
+makes this algorithm work. In this case,
+
 160
-00:13:53.713 --> 00:13:59.593
+00:13:51.000 --> 00:13:59.593
 this is only the one, so vertex one is its
 own, is in its own strong component with
 
