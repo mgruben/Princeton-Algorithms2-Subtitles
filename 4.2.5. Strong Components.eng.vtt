@@ -788,7 +788,7 @@ with one. we visit one, its unmarked and
 158
 00:13:41.697 --> 00:13:47.939
 now all the vertices that we visit during
-that DFS are going to be in that same
+that DFS are going to be in the same
 
 160
 00:13:53.713 --> 00:13:59.593
