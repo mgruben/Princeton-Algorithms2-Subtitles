@@ -801,12 +801,12 @@ this is only the one, so vertex one is its
 own, is in its own strong component with
 
 161
-00:13:59.593 --> 00:14:03.118
+00:13:59.593 --> 00:14:05.000
 label zero.
-So now, we've got to start, once all done,
+So now, we've got to start, one's all done,
 
 162
-00:14:03.118 --> 00:14:08.123
+00:14:05.000 --> 00:14:08.123
 so now, we have to start with looking for
 another vertex to search from.
 
