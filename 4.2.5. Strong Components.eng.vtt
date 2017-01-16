@@ -1097,7 +1097,7 @@ you first compute the depth-first order
 
 220
 00:19:04.753 --> 00:19:12.599
-that you get by running doing that first
+that you get by running doing a depth-first
 search of the reverse graph and then you
 
 221
