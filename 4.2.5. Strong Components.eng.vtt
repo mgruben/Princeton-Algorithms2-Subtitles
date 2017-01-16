@@ -693,22 +693,22 @@ the list.
 139
 00:12:14.396 --> 00:12:19.042
 Then we're finished with four, so we
-checked six which is marked, then we
+check six which is marked, then we
 
 140
 00:12:19.042 --> 00:12:22.560
-checked five, which is unmarked so we
+check five, which is unmarked so we
 recurse to five.
 
 141
 00:12:22.759 --> 00:12:26.475
-From five, we checked three which is
+From five, we check three which is
 unmarked so we recurse.
 
 142
 00:12:26.475 --> 00:12:30.458
-Then, we checked four which is mark, we
-checked two which is mark.
+Then, we check four which is mark, we
+check two which is mark.
 
 143
 00:12:30.458 --> 00:12:34.373
