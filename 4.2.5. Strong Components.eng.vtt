@@ -558,7 +558,7 @@ component.
 112
 00:10:02.579 --> 00:10:06.692
 So, there's our marked array.
-We will do the DFS, and reverse post order
+We do the DFS, and reverse post order
 
 113
 00:10:06.692 --> 00:10:10.670
